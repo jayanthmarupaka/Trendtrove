@@ -4,19 +4,8 @@
  
  
 ### Home page
-![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
+![Screenshot_31-5-2024_94017_127 0 0 1](https://github.com/jayanthmarupaka/Trendtrove/assets/95174580/0aa16c0e-5572-40c3-888b-2fd5c45d17bb)
 
 
 
-### Content Description page
-![2](https://user-images.githubusercontent.com/17312616/65086777-b1beb080-d9d0-11e9-9e2b-af3b7210bdf3.png)
 
-
-
-### Ordered List page
-![3](https://user-images.githubusercontent.com/17312616/65086778-b2574700-d9d0-11e9-9377-8e4886f582a8.png)
-
-
-
-### Order confirm page
-![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
